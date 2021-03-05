@@ -26,3 +26,4 @@ console.log(tips);
 
 const total =[tip1 + bills[0], tip1 + bills[1], tip1 + bills[2]];
 console.log(total);
+
